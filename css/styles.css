@@ -53,10 +53,12 @@
 
 #bio-container p {
     margin-bottom: 20px;
+    text-align: justify;
 }
 
 #bio-container #welcome-text {
     font-weight: bold;
+    text-align: center;
 }
 
 #bio-image {
